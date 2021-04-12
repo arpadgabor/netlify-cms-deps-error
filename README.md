@@ -1,19 +1,6 @@
-# admitere
+# test-repo
 
-
-calendar
-unde ma inscriu
-documente
-dupa ce esti acceptat
-
-informatii utile
-faq
-oportunitati de angajare / cariera / cine ma angajeaza
-
-voluntariat
-camine - subpage
-link spre noutati AC
-despre timisoara
+[![install-and-build](https://github.com/arpadgabor/netlify-cms-deps-error/actions/workflows/install-and-build.yml/badge.svg?event=workflow_run)](https://github.com/arpadgabor/netlify-cms-deps-error/actions/workflows/install-and-build.yml)
 
 ## Build Setup
 
