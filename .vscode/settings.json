@@ -1,0 +1,8 @@
+{
+  "editor.formatOnSave": true,
+  "vetur.experimental.templateInterpolationService": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "css.validate": false,
+}

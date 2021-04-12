@@ -1,0 +1,20 @@
+body {
+  @apply bg-white dark:bg-gray-900 transition-colors;
+  @apply font-sans overflow-x-hidden !important;
+
+  & p {
+    @apply text-gray-900 dark:text-gray-50;
+  }
+}
+
+
+.fade-enter-active, .fade-leave-active {
+  transition: all .4s;
+}
+.fade-leave-to {
+  opacity: 0;
+}
+.fade-enter {
+  opacity: 0;
+  transform: translateY(2rem);
+}
